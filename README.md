@@ -36,14 +36,3 @@ The financial performance of S&P 500 companies serves as an important indicator 
 ## 💡 Improvement Space
 This analysis can be expanded by introducing financial modeling techniques for future performance prediction. Implementing machine learning models to forecast revenue growth and stock price volatility could also add significant value. Additionally, more complex financial simulations, such as scenario analysis and stress testing, can be incorporated to assess market resilience.
 
-## 🚀 How to Run This Project
-1. **🧹 Data Cleaning and Preparation**:
-   - Use the provided cleaned dataset.
-   - Perform additional data wrangling steps as necessary.
-
-2. **📊 Visualization**:
-   - Use **Google Sheets** to calculate the financial metrics.
-   - Present the visualized data using **Google Slides** or any similar tool.
-
-3. **📈 Improvements**:
-   - Add financial modeling for deeper insights and predictive analysis in future iterations.
